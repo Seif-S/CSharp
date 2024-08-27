@@ -1,0 +1,14 @@
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\bin\Debug\net8.0\PFråga1.exe
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\bin\Debug\net8.0\PFråga1.deps.json
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\bin\Debug\net8.0\PFråga1.runtimeconfig.json
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\bin\Debug\net8.0\PFråga1.dll
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\bin\Debug\net8.0\PFråga1.pdb
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\obj\Debug\net8.0\PFråga1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\obj\Debug\net8.0\PFråga1.AssemblyInfoInputs.cache
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\obj\Debug\net8.0\PFråga1.AssemblyInfo.cs
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\obj\Debug\net8.0\PFråga1.csproj.CoreCompileInputs.cache
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\obj\Debug\net8.0\PFråga1.dll
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\obj\Debug\net8.0\refint\PFråga1.dll
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\obj\Debug\net8.0\PFråga1.pdb
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\obj\Debug\net8.0\PFråga1.genruntimeconfig.cache
+C:\Users\Kei-C\source\repos\PFråga1\PFråga1\obj\Debug\net8.0\ref\PFråga1.dll

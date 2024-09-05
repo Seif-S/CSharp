@@ -9,15 +9,16 @@ internal class Program
         while (true)
         {
             int[] myNumbers = Array.Empty<int>();
-            Console.WriteLine("input a number: ");
+            Console.WriteLine("input a number to add a number or type quit to continue: ");
             while (true)
             {
-                int input = Convert.ToInt32(Console.ReadLine());
-                if (input != 0)
+                string? input = Console.ReadLine();
+                if (input?.ToLower() != "quit")
                 {
-                    if (!myNumbers.Contains(input))
+                    int inputN = Convert.ToInt32(input);
+                    if (!myNumbers.Contains(inputN))
                     {
-                        myNumbers = myNumbers.Append(input).ToArray();
+                        myNumbers = myNumbers.Append(inputN).ToArray();
                     }
                 }
                 else
@@ -35,7 +36,7 @@ internal class Program
             int maxNumber = Convert.ToInt32(Console.ReadLine());
             IEnumerable<int> newNumbers =
                 from i in myNumbers
-                where i < maxNumber
+                where i <= maxNumber
                 select i;
             Console.WriteLine($"Number that's under {maxNumber}: ");
             foreach (int i in newNumbers)
@@ -49,9 +50,9 @@ internal class Program
             {
                 Console.Write(number + " ");
             }
-            Console.WriteLine("Start process again?");
+            Console.WriteLine("Start process again? Y/N : ");
             string? answer = Console.ReadLine();
-            if (answer != null && answer.ToUpper() == "Y")
+            if (answer!.ToUpper() == "Y")
             {
                 continue;
             }

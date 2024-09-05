@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kei-C\\source\\repos\\PFr\u00E5ga1\\",
+  "WorkspaceRootPath": "C:\\Users\\Kei-C\\source\\repos\\Project\\PFr\u00E5ga1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21280458-CF73-4AEF-9D88-83D9266BC71D}|PFr\u00E5ga1\\PFr\u00E5ga1.csproj|c:\\users\\kei-c\\source\\repos\\pfr\u00E5ga1\\pfr\u00E5ga1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21280458-CF73-4AEF-9D88-83D9266BC71D}|PFr\u00E5ga1\\PFr\u00E5ga1.csproj|c:\\users\\kei-c\\source\\repos\\project\\pfr\u00E5ga1\\pfr\u00E5ga1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21280458-CF73-4AEF-9D88-83D9266BC71D}|PFr\u00E5ga1\\PFr\u00E5ga1.csproj|solutionrelative:pfr\u00E5ga1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kei-C\\source\\repos\\PFr\u00E5ga1\\PFr\u00E5ga1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kei-C\\source\\repos\\Project\\PFr\u00E5ga1\\PFr\u00E5ga1\\Program.cs",
               "RelativeDocumentMoniker": "PFr\u00E5ga1\\Program.cs",
-              "ToolTip": "C:\\Users\\Kei-C\\source\\repos\\PFr\u00E5ga1\\PFr\u00E5ga1\\Program.cs",
+              "ToolTip": "C:\\Users\\Kei-C\\source\\repos\\Project\\PFr\u00E5ga1\\PFr\u00E5ga1\\Program.cs",
               "RelativeToolTip": "PFr\u00E5ga1\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T08:41:18.881Z",
               "EditorCaption": ""

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kei-C\\source\\repos\\PFråga1\\PFråga1\\PFråga1.csproj",
+      "projectUniqueName": "C:\\Users\\Kei-C\\source\\repos\\Project\\PFråga1\\PFråga1\\PFråga1.csproj",
       "projectName": "PFråga1",
-      "projectPath": "C:\\Users\\Kei-C\\source\\repos\\PFråga1\\PFråga1\\PFråga1.csproj",
+      "projectPath": "C:\\Users\\Kei-C\\source\\repos\\Project\\PFråga1\\PFråga1\\PFråga1.csproj",
       "packagesPath": "C:\\Users\\Kei-C\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kei-C\\source\\repos\\PFråga1\\PFråga1\\obj\\",
+      "outputPath": "C:\\Users\\Kei-C\\source\\repos\\Project\\PFråga1\\PFråga1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kei-C\\AppData\\Roaming\\NuGet\\NuGet.Config",
